@@ -1,0 +1,3 @@
+[submodule "themes/slender"]
+	path = themes/slender
+	url = git://github.com/Eisenbarth/slender.git

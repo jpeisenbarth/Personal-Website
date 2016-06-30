@@ -1,0 +1,79 @@
+# config.toml
+# https://github.com/CrimsonRay/slender
+
+baseurl = "//eisenbarth.io/"
+title = "Jean-Philippe Eisenbarth"
+languageCode = "fr_FR"
+MetaDataFormat = "toml"
+theme = "slender"
+paginate = 3
+PaginatePath = "/"
+PygmentsUseClasses = false
+PygmentsStyle = "monokai"
+
+[author]
+    name = "Jean-Philippe Eisenbarth"
+
+[permalinks]
+
+    # Permalink format for pages.
+    page = "/:title/"
+
+    # Permalink format for blog posts.
+    post = "/article/:title/"
+
+[params]
+
+    # Change the color scheme of Slender.
+    # See above for preview and list of color schemes.
+    colorscheme = "white"
+
+    # Tagline; HTML accepted here. Keep it concise.
+    tagline = "<cite>A hacker is someone who enjoys playful cleverness — not necessarily with computers.</cite> Richard M. Stallman"
+
+    # Footer; Markdown accepted here.
+    footer = "Construit avec Hugo (https://gohugo.io/)"
+
+    # Description and keywords for <meta> tags.
+    # Remember to set this for your main page.
+    # This will be overridden by whatever is set by the page or post,
+    # defined by `description` and `keywords` variables in the front matter
+    # of the markdown file.
+    description = "Default Page Description"
+    keywords = "default,page,keywords"
+
+    # Social links, must be full URLs (e.g. https://github.com/CrimsonRay/).
+    # Remove, comment, or leave blank any field to leave them out.
+    # email = "mailto:your-email"
+    github = "https://github.com/Eisenbarth"
+    # bitbucket = "url-to-your-bitbucket"
+    # twitter = "url-to-your-twitter"
+    # stackoverflow = "url-to-your-stackoverflow"
+    linkedin = "https://fr.linkedin.com/in/eisenbarth"
+    # facebook = "url-to-your-facebook"
+
+    # Google Analytics
+    # Remove, comment, or leave it blank if you don't have one.
+    # ganalytics = "your-google-analytics-tracking-code"
+
+[menu]
+
+    # Menu for the nav bar.
+    # There must always be one item present (e.g. home).
+    [[menu.main]]
+    identifier = "accueil"
+    name       = "Accueil"
+    url        = "/"
+    weight     = 0
+
+    #[[menu.main]]
+    # identifier = "articles"
+    # name       = "Articles"
+    # url        = "/articles/"
+    # weight     = 1
+
+    #[[menu.main]]
+    # identifier = "enseignement"
+    # name       = "Enseignement"
+    # url        = "/enseignement/"
+    # weight     = 1
