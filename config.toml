@@ -2,6 +2,7 @@
 # https://github.com/CrimsonRay/slender
 
 baseurl = "//eisenbarth.io/"
+#baseurl = "localhost"
 title = "Jean-Philippe Eisenbarth"
 languageCode = "fr_FR"
 MetaDataFormat = "toml"
@@ -45,7 +46,7 @@ PygmentsStyle = "monokai"
     # Social links, must be full URLs (e.g. https://github.com/CrimsonRay/).
     # Remove, comment, or leave blank any field to leave them out.
     # email = "mailto:your-email"
-    github = "https://github.com/Eisenbarth"
+    github = "https://github.com/jpeisenbarth"
     # bitbucket = "url-to-your-bitbucket"
     # twitter = "url-to-your-twitter"
     # stackoverflow = "url-to-your-stackoverflow"
