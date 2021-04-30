@@ -30,7 +30,7 @@ PygmentsStyle = "monokai"
     colorscheme = "white"
 
     # Tagline; HTML accepted here. Keep it concise.
-    tagline = "<cite>A hacker is someone who enjoys playful cleverness — not necessarily with computers.</cite> Richard M. Stallman"
+    tagline = "<cite>A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.</cite> Leslie Lamport"
 
     # Footer; Markdown accepted here.
     footer = "Construit avec Hugo (https://gohugo.io/)"
