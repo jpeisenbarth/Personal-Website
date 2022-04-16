@@ -10,7 +10,7 @@ title = "index"
 I am a Ph. D. student of the University of Lorraine. I work at Loria (Laboratoire Lorrain de Recherche en Informatique et ses Applications) in France, within the RESIST team (https://team.inria.fr/resist/).
 I am also a teacher at TELECOM Nancy, a french engineering school.
 
-I am working on the monitoring and security of P2P networks of blockchains systems. I am funded by the european project H2020 CONCORDIA.
+I am working on the monitoring and security of P2P networks of blockchains systems (Bitcoin, Ethereum). I am funded by the european project H2020 CONCORDIA.
 
 ## CV
 

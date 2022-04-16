@@ -9,7 +9,7 @@ title = "index"
 
 Je suis doctorant à l'université de Lorraine et je travaille au Loria (Laboratoire Lorrain de Recherche en Informatique et ses Applications) à Villers-Lès-Nancy dans l'équipe RESIST (https://team.inria.fr/resist/). Je suis également chargé de TD à TELECOM Nancy.
 
-Je travaille sur le projet européen H2020 Concordia et ma thèse porte sur le sujet de la supervision et cybersécurité de réseaux pair-à-pair des technologies de blockchains (Bitcoin, Ethreum).
+Je travaille sur le projet européen H2020 Concordia et ma thèse porte sur le sujet de la supervision et cybersécurité de réseaux pair-à-pair des technologies de blockchains (Bitcoin, Ethereum).
 
 ## CV
 
