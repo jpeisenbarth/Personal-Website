@@ -1,6 +1,6 @@
 +++
 draft = true
-description = "Les cours et TP que j'ai dispensé"
+description = "Les cours et TP que j'ai dispensé (page incomplète)"
 keywords = ["cours", "tp"]
 url = "teaching"
 title = "Enseignement"
