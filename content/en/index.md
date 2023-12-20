@@ -7,14 +7,15 @@ title = "index"
 
 ## About me
 
-I am a Ph. D. student of the University of Lorraine. I work at Loria (Laboratoire Lorrain de Recherche en Informatique et ses Applications) in France, within the RESIST team (https://team.inria.fr/resist/).
-I am also a teacher at TELECOM Nancy, a french engineering school.
+I am a postdoctoral researcher working in the SEDAN group at the SnT (Interdisciplinary Centre for Security, Reliability and Trust) from the University of Luxembourg. I have a Ph.D in Computer Science from the University of Lorraine (France) where I worked at the Loria laboratory within the RESIST group.
 
-I am working on the monitoring and security of P2P networks of blockchains systems (Bitcoin, Ethereum). I am funded by the european project H2020 CONCORDIA.
+My thesis is on the Analysis, Exploitation and Protection of Public Blockchain Peer-to-Peer Networks, the manuscript is available [here](https://hal.univ-lorraine.fr/tel-04056712)(if you can read french).
+
+My research interests include Network Management and Distributed Systems, especially the study (measurements, monitoring, analysis, security) of peer-to-peer (p2p) networks. My work focuses on public blockchains (Bitcoin, Ethereum and XRP-Ledger) underlying p2p networks.
 
 ## CV
 
-[My CV in english](/cv/cv_english.pdf) (avril 2022)
+[My short CV in english](/cv/cv_short_english.pdf) (Dec 2023)
 ## My PGP key
 
 [AE720E1B](https://pgp.mit.edu/pks/lookup?op=get&search=0x4FC1DAFDAE720E1B)

@@ -7,13 +7,15 @@ title = "index"
 
 ## Résumé
 
-Je suis doctorant à l'université de Lorraine et je travaille au Loria (Laboratoire Lorrain de Recherche en Informatique et ses Applications) à Villers-Lès-Nancy dans l'équipe RESIST (https://team.inria.fr/resist/). Je suis également chargé de TD à TELECOM Nancy.
+Je suis chercheur postdoctoral au SnT (Centre interdisciplinaire pour la sécurité, la fiabilité et la confiance) de l'université du Luxembourg et je mène mes travaux dans l'équipe SEDAN. J'ai obtenu ma thèse de doctorat en Informatique à l'université de Lorraine où j'ai travaillé au sein du Loria (Laboratoire Lorrain de Recherche en Informatique et ses Applications) dans l'équipe RESIST.
 
-Je travaille sur le projet européen H2020 Concordia et ma thèse porte sur le sujet de la supervision et cybersécurité de réseaux pair-à-pair des technologies de blockchains (Bitcoin, Ethereum).
+Ma thèse porte sur l'Analyse, la valorisation et la protection des réseaux pair-à-pair de blockchains publiques, dont le manuscrit est disponible [ici](https://hal.univ-lorraine.fr/tel-04056712).
+
+Mes thèmes de recherche concerne la gestion de réseaux (Network Management) et les systèmes distribués, en particulier l'étude (mesures, supervision, analyses, sécurité) de réseaux pair-à-pair (p2p). Mes travaux portent essentiellement sur les réseaux p2p sous-jacent aux blockchains publiques, tel que Bitcoin, Ethereum et XRP-Ledger.
 
 ## CV
 
-[CV en français](/cv/cv.pdf) (avril 2022)
+[CV court en français](/cv/cv_short.pdf) (Déc 2023)
 ## Ma clé PGP
 
 [AE720E1B](https://pgp.mit.edu/pks/lookup?op=get&search=0x4FC1DAFDAE720E1B)
