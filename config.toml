@@ -19,7 +19,6 @@ defaultContentLanguageInSubdir = true
     contentDir = 'content/fr'
     languageCode = 'fr-FR'
     languageName = 'Français'
-    weight = 1
     [languages.fr.params]
       linkedin = 'https://fr.linkedin.com/fr/eisenbarth'
       [languages.fr.params.navigation]
@@ -29,12 +28,10 @@ defaultContentLanguageInSubdir = true
         identifier = "accueil"
         name = "Accueil"
         url = "/"
-        weight = 0
   [languages.en]
     contentDir = 'content/en'
     languageCode = 'en-US'
     languageName = 'English'
-    weight = 2
     [languages.en.params]
       linkedin = 'https://linkedin.com/eisenbarth'
       [languages.en.params.navigation]
@@ -44,13 +41,10 @@ defaultContentLanguageInSubdir = true
           identifier = "accueil"
           name = "Home"
           url = "/en/"
-          weight = 0
-
-
 
 
 [author]
-    name = "Jean-Philippe Eisenbarthhh"
+    name = "Jean-Philippe Eisenbarth"
 
 [permalinks]
 

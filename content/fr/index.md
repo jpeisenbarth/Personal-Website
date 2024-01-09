@@ -1,8 +1,6 @@
 +++
-draft = false
 url = "index.html"
-title = "index"
-
+title = "Accueil"
 +++
 
 ## Résumé
@@ -16,6 +14,36 @@ Mes thèmes de recherche concerne la gestion de réseaux (Network Management) et
 ## CV
 
 [CV court en français](/cv/cv_short.pdf) (Déc 2023)
+
+## Enseignement à TELECOM Nancy 1A (2016-2022)
+
+### Modules dispensés
+
+- Tutorat 1A
+- POO
+- Techniques et Outils pour programmer
+- Structures de données
+- C/Shell
+- Système
+- Gestion de masse de données
+- Commandes et outils Linux pour le développeur
+- Web
+
+### Ressources écrites
+
+#### Tutorat 1A GNU/LINUX, Shell
+[Cours introductif sur les systèmes Unix-like et utilisation basique du shell](/teaching/intro_unix-like_shell.pdf)</br>
+
+#### C-Shell (apprentis)
+[Cours Shell partie 1](/teaching/shell1.pdf)
+
+[Cours Shell partie 2](/teaching/shell2.pdf)
+
+#### Projets programmation Système
+[Projet 2019-2020 Fari](/teaching/projet-1920-fari.pdf)
+
+[Projet 2020-2021 Testaro](/teaching/projet-2021-testaro.pdf)
+
 ## Ma clé PGP
 
 [AE720E1B](https://pgp.mit.edu/pks/lookup?op=get&search=0x4FC1DAFDAE720E1B)
